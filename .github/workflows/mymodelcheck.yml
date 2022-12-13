@@ -9,7 +9,7 @@ on:
  push:
 
 env:
-  ModelName: DemoModel.eapx
+  ModelName: TrainerDemo.eapx
 
 jobs:
   ModelReadinessCheck:
